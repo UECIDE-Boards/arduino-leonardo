@@ -1,0 +1,11 @@
+arduino-leonardo (1.0.1) uecide; urgency=low
+
+  * Added USB auto-ident codes
+
+ -- Matt Jenkins <matt@majenko.co.uk>  Thu, 29 Jan 2015 12:24:07 +0000
+
+arduino-leonardo (1.0.0) uecide; urgency=low
+
+  * Initial Release.
+
+ -- Matt Jenkins <matt@majenko.co.uk>  Thu, 29 Jan 2015 12:24:07 +0000

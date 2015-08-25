@@ -1,0 +1,2 @@
+src/board.txt boards/Arduino/arduino-leonardo
+src/pins_arduino.h boards/Arduino/arduino-leonardo
