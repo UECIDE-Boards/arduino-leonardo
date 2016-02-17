@@ -26,6 +26,7 @@ upload.arduino.using=usbcdc
 upload.arduino.reset.baud=1200
 upload.arduino.dtr=no
 upload.arduino.rts=no
+upload.arduino.reset.postdelay=1000
 core=arduino
 name=arduino-leonardo
 board=ARDUINO_LEONARDO
